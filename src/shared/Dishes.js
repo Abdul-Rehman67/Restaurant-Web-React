@@ -22,7 +22,7 @@ export const   dishes= [
       category: 'appetizer',
       label:'New',
       price:'1.99',
-      description:'A quintessential ConFusion experience, is it a vada or is it a donut?'                        },
+      description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce?'                        },
    {
       id: 3,
       name:'ElaiCheese Cake',
